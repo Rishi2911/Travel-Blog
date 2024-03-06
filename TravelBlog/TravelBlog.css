@@ -1,0 +1,165 @@
+header{
+    background-color: black;
+    height: 50px;
+    margin: -21px;
+    margin-left: -12px;
+    }
+.anch{
+    text-decoration: none;
+    color: white;
+    margin: 25px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 15px;
+    padding-left: 350px;
+}
+.div1{
+    text-align:left;
+    height: 480px;
+    width: 100%;
+    padding: 20px;
+    padding-top: 0px;
+    background-image:url(https://www.psychologs.com/wp-content/uploads/2023/08/Hodophile-A-Person-who-Loves-to-Travel.jpg);
+    background-size: 100%;
+    margin: -21px;
+    background-position: center;
+}
+    .h{
+        color: rgb(250, 249, 249);
+        padding-top: 115px;
+        text-shadow: 2px 3px 2px rgb(16, 104, 29);
+        font-family:cursive;
+    }
+    .h2{
+        color: rgb(241, 214, 40);
+        text-shadow: 1px 2px 1px rgb(15, 16, 16);
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size:xxx-large;
+        font-style: italic;
+    }
+    .d1,.d2{
+        text-align: center;
+        margin: 10px;
+        overflow: scroll;
+        height: 235px;
+        display:flex;
+        width: 1155px;
+        margin-left: 0px;
+        }
+
+    .c1,.c1{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(244, 242, 240);
+        text-shadow: 1px 1px 1px rgb(246, 243, 243);
+        font-style: italic;
+        font-size: xx-large;
+        margin-top: 75px;
+        margin-right: 22px;
+    }
+    .p{
+        color: rgb(123, 118, 27);
+    }
+    .email{
+        border-style:none;
+    background-color: rgb(241, 242, 243);
+    border-radius: 20px;
+    width: 400px;
+    height: 27px;
+    }
+    .butt{
+        border-style:none;
+        border-radius: 20px;
+        width: 80px;
+        height: 28px;
+        background-color: orange;
+        color: ghostwhite;
+        cursor: pointer;
+    }
+   img{
+    border-radius: 20px;
+    margin: 5px;
+    ;
+
+   }
+    #i1{
+        position:absolute;
+        padding-left: 10px;
+        padding-top: 6px;
+    }
+    .d1{
+      padding-top: 40px;
+
+    }
+    body{
+        background-color: rgb(11, 11, 11);
+    }
+    #Blogs,.Blog,.Blog1{
+        margin: 20px;
+        margin-top: -30px;
+        display: flex;
+        margin-bottom: 26px;
+    }
+    .he{
+        margin-top: -4px;
+        margin-bottom: 50px;
+    }
+    .img1,.img2,.img3,.img4,.img5,.img6{
+        position: relative;
+        text-align: center;
+        color: rgb(249, 243, 243);
+        font-size: xxx-large;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: italic;
+        text-shadow: 2px 2px 2px black;
+        margin: 4px;
+    }
+    .centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+   .shar{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: xx-large;
+    margin-left: 20px;
+   }
+   .shar1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    padding-bottom: -100px;
+    color: rgb(249, 248, 247);
+    text-shadow: 1px 1px 1px rgb(218, 233, 8);
+   }
+   .name,.email1,.blog,.attach{
+    border-radius: 8px;
+    height: 20px;
+    width: 300px;
+   }
+   .blog{
+    height: 100px;
+    margin-top: 12px;
+   }
+   .but1,.but2{
+    height: 25px;
+    width: 70px;
+    border-radius: 9px;
+    background-color: rgb(85, 176, 240);
+    color: white;
+   }
+   footer{
+    color: rgb(242, 245, 246);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align:left;
+    margin-left: 450px;
+   }
+   #sec{
+    color: white;
+    text-align:center;
+    margin-left: 2px;margin-bottom: 3px;
+   }
